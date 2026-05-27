@@ -639,10 +639,6 @@ repository linked above.
 -   Coefficients for interrater reliability and agreements can be
     computed with the `r pkg("irr")`.
 -   Statistical tools for the analysis of psychophysical data are implemented in `r pkg("psyphy")` and `r pkg("MixedPsy")`. 
--   Functions and example datasets for Fechnerian scaling of discrete
-    object sets are provided by `r pkg("fechner")`. It
-    computes Fechnerian distances among objects representing subjective
-    dissimilarities, and other related information.
 -   The `r pkg("mediation")` allows both parametric and
     nonparametric causal mediation analysis. It also allows researchers
     to conduct sensitivity analysis for certain parametric models.
